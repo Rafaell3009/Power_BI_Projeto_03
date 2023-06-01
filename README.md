@@ -1,1 +1,2 @@
-# Power_BI_Projeto_03
+## Projeto realizado no Power BI para demostrar um dashboard em que mostra, através de grafico de linha, a evolução das vendas da empresa.
+## Foi incluido filtros para que a análise dos dados posso ser verificada por colaborador.
